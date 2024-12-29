@@ -1,8 +1,3 @@
-getgenv().Checkgames = {
-  --[[ Muscle Legends ]]--
-  [3623096087] = "https://raw.githubusercontent.com/PanSystem/Shacki/refs/heads/main/Muscle-Legends",
-}
-
 for PlaceID, Execute in pairs(Checkgames) do
     if PlaceID == game.PlaceId then
         loadstring(game:HttpGet(Execute))()
