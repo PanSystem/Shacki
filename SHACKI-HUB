@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PanSystem/Shacki/refs/heads/main/CHECK-GAME", true))()
 for PlaceID, Execute in pairs(Checkgames) do
     if PlaceID == game.PlaceId then
         loadstring(game:HttpGet(Execute))()
