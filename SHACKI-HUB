@@ -1,6 +1,6 @@
 getgenv().Games = {
   --[[ Muscle Legends ]]--
-  [3623096087] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Muscle%20Legends.lua",
+  [3623096087] = "https://raw.githubusercontent.com/PanSystem/Shacki/refs/heads/main/Muscle-Legends",
 }
 
 for PlaceID, Execute in pairs(Games) do
