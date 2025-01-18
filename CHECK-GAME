@@ -1,4 +1,4 @@
 getgenv().Checkgames = {
   --[[ Muscle Legends ]]--
-  [3623096087] = "https://raw.githubusercontent.com/PanSystem/Shacki/refs/heads/main/Muscle-Legends",
+  [3623096087] = "https://raw.githubusercontent.com/PanSystem/Shacki/refs/heads/main/MuscleLegends",
 }
